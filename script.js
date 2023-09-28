@@ -1,4 +1,4 @@
-const APIURL = "http://www.omdbapi.com/?s=friends&apikey=fefed7e2";
+const APIURL = "https://www.omdbapi.com/?s=friends&apikey=fefed7e2";
 
 
 
